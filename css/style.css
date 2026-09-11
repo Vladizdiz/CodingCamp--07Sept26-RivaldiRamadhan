@@ -932,6 +932,61 @@ body {
   }
 }
 
+/* Small phones — below 470px */
+@media (max-width: 470px) {
+  body {
+    padding: 12px;
+    gap: 12px;
+  }
+
+  /* Stack the inner panel grid to a single column */
+  #panels-wrapper {
+    grid-template-columns: 1fr;
+  }
+
+  #greeting-time {
+    font-size: 1.875rem;
+  }
+
+  #timer-display {
+    font-size: 2.5rem;
+  }
+
+  /* Footer: stack everything vertically */
+  #theme-footer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  /* Footer images: shrink them down */
+  #footer-img-1 {
+    height: 70px;
+  }
+
+  #footer-img-2 {
+    height: 55px;
+  }
+
+  /* Get-in-touch: no extra top margin, just flow naturally */
+  #get-in-touch {
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+    padding-top: 8px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  /* Social buttons: shrink padding slightly */
+  #footer-github,
+  #footer-instagram {
+    padding: 5px 10px;
+    font-size: 0.75rem;
+  }
+}
+
 /* Very narrow — ensure nothing overflows at 320 px; minimum 12 px font floor */
 @media (max-width: 375px) {
   body {
