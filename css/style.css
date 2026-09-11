@@ -905,6 +905,19 @@ body {
   .ql-link-btn {
     max-width: 100%;
   }
+
+  /* Footer — allow wrapping so get-in-touch drops to its own row */
+  #theme-footer {
+    flex-wrap: wrap;
+  }
+
+  #get-in-touch {
+    width: 100%;            /* full row below the toggle + images */
+    margin-left: 0;         /* cancel the desktop margin-left: auto */
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+  }
 }
 
 /* Very narrow — ensure nothing overflows at 320 px; minimum 12 px font floor */
