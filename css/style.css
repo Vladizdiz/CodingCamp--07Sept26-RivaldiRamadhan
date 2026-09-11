@@ -867,6 +867,18 @@ body {
 
 /* Mobile only — font and layout tweaks below 767px */
 @media (max-width: 767px) {
+  body {
+    grid-template-columns: 1fr;  /* single column — no image column */
+  }
+
+  #side-image {
+    display: none;               /* hide the side image on mobile */
+  }
+
+  #panels-wrapper {
+    grid-column: 1 / -1;        /* expand panels to full width */
+  }
+
   #greeting-time {
     font-size: 2.25rem;
   }
