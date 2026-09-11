@@ -40,7 +40,7 @@
 [data-theme="dark"] body {
   background-color: var(--color-bg);
   color: var(--color-text);
-  background-image: url(/assets/bg1.jpg);
+  background-image: url(../assets/bg1.jpg);
 }
 
 [data-theme="dark"] #greeting-panel,
@@ -280,7 +280,7 @@ body {
   line-height: 1.5;
   color: var(--color-text);
   background-color: var(--color-bg);
-  background-image: url(/assets/bg2.jpg);
+  background-image: url(../assets/bg2.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
