@@ -1,0 +1,301 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create project file structure and `index.html` entry point": [
+      {
+        "executionId": "a4a66574-f454-4890-9235-8fcc4c14b36c",
+        "chatSessionId": "sess_bafa8b75-c546-41c8-afcc-5869e33653eb",
+        "timestamp": 1789092826823
+      },
+      {
+        "executionId": "a4a66574-f454-4890-9235-8fcc4c14b36c",
+        "chatSessionId": "sess_bafa8b75-c546-41c8-afcc-5869e33653eb",
+        "timestamp": 1789092918990
+      }
+    ],
+    "1.2 Create the IIFE wrapper and module stubs in `js/app.js`": [
+      {
+        "executionId": "a4a66574-f454-4890-9235-8fcc4c14b36c",
+        "chatSessionId": "sess_bafa8b75-c546-41c8-afcc-5869e33653eb",
+        "timestamp": 1789092830716
+      },
+      {
+        "executionId": "a4a66574-f454-4890-9235-8fcc4c14b36c",
+        "chatSessionId": "sess_bafa8b75-c546-41c8-afcc-5869e33653eb",
+        "timestamp": 1789092922819
+      }
+    ],
+    "1. Scaffold project structure and HTML skeleton": [
+      {
+        "executionId": "a4a66574-f454-4890-9235-8fcc4c14b36c",
+        "chatSessionId": "sess_bafa8b75-c546-41c8-afcc-5869e33653eb",
+        "timestamp": 1789092922884
+      }
+    ],
+    "2.1 Implement `StorageService` read, write, and clear methods": [
+      {
+        "executionId": "5df9dc6e-0472-434f-a26a-2f68ca967aeb",
+        "chatSessionId": "sess_ae6d5c63-97dc-4905-b6af-55d91d3dde47",
+        "timestamp": 1789092962690
+      },
+      {
+        "executionId": "5df9dc6e-0472-434f-a26a-2f68ca967aeb",
+        "chatSessionId": "sess_ae6d5c63-97dc-4905-b6af-55d91d3dde47",
+        "timestamp": 1789093009616
+      }
+    ],
+    "2. Implement `StorageService`": [
+      {
+        "executionId": "5df9dc6e-0472-434f-a26a-2f68ca967aeb",
+        "chatSessionId": "sess_ae6d5c63-97dc-4905-b6af-55d91d3dde47",
+        "timestamp": 1789093009657
+      }
+    ],
+    "3.1 Implement `GreetingPanel.init()`, `_getGreeting()`, and `startClock()`": [
+      {
+        "executionId": "bb7ad248-d994-4d20-8856-bec239a2d322",
+        "chatSessionId": "sess_be7a4fa5-5b68-4993-bd26-c6371cff9cb0",
+        "timestamp": 1789093046081
+      },
+      {
+        "executionId": "bb7ad248-d994-4d20-8856-bec239a2d322",
+        "chatSessionId": "sess_be7a4fa5-5b68-4993-bd26-c6371cff9cb0",
+        "timestamp": 1789093122974
+      }
+    ],
+    "3. Implement `GreetingPanel`": [
+      {
+        "executionId": "bb7ad248-d994-4d20-8856-bec239a2d322",
+        "chatSessionId": "sess_be7a4fa5-5b68-4993-bd26-c6371cff9cb0",
+        "timestamp": 1789093123020
+      }
+    ],
+    "4. Implement `FocusTimer`": [
+      {
+        "executionId": "daf24b89-415c-427f-87e9-732b5d3f36cf",
+        "chatSessionId": "sess_230fb6f1-d21b-448f-a19c-3384bf3ed4f9",
+        "timestamp": 1789093157956
+      },
+      {
+        "executionId": "daf24b89-415c-427f-87e9-732b5d3f36cf",
+        "chatSessionId": "sess_230fb6f1-d21b-448f-a19c-3384bf3ed4f9",
+        "timestamp": 1789093772446
+      }
+    ],
+    "4.1 Implement `FocusTimer` state machine, controls, and display": [
+      {
+        "executionId": "df8a8612-2308-4613-bdfe-4c65cb6f7952",
+        "chatSessionId": "sess_e335e32c-630c-4854-86f0-2983837b904a",
+        "timestamp": 1789093945170
+      }
+    ],
+    "5.1 Implement `generateId()` helper and `Task` data model": [
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094015303
+      },
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094306166
+      }
+    ],
+    "5.2 Implement `TodoList.init()`, `_persist()`, and `_renderAll()`": [
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094310149
+      },
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094314299
+      }
+    ],
+    "5.3 Implement `TodoList.addTask()` with validation": [
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094318591
+      },
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094323536
+      }
+    ],
+    "5.7 Implement `TodoList.editTask()` with validation and cancel support": [
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094327457
+      },
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094331032
+      }
+    ],
+    "5.11 Implement `TodoList.toggleComplete()` and `TodoList.deleteTask()`": [
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094335362
+      },
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094339715
+      }
+    ],
+    "5. Implement `TodoList` — core CRUD and persistence": [
+      {
+        "executionId": "cddbac18-298a-4157-930b-717cb7a09b33",
+        "chatSessionId": "sess_982a4c3d-2211-4ed5-aa28-a42aaee808a5",
+        "timestamp": 1789094339770
+      }
+    ],
+    "7.1 Implement `QuickLinks.init()`, `_validateUrl()`, `_persist()`, and `_renderAll()`": [
+      {
+        "executionId": "c9cbe331-f4cd-40e3-a964-aff51e058c16",
+        "chatSessionId": "sess_823f1cb6-ad12-4c9c-aa57-e297ab3d463c",
+        "timestamp": 1789094470977
+      },
+      {
+        "executionId": "c9cbe331-f4cd-40e3-a964-aff51e058c16",
+        "chatSessionId": "sess_823f1cb6-ad12-4c9c-aa57-e297ab3d463c",
+        "timestamp": 1789094647981
+      }
+    ],
+    "7.2 Implement `QuickLinks.addLink()` and link button behavior": [
+      {
+        "executionId": "c9cbe331-f4cd-40e3-a964-aff51e058c16",
+        "chatSessionId": "sess_823f1cb6-ad12-4c9c-aa57-e297ab3d463c",
+        "timestamp": 1789094475757
+      },
+      {
+        "executionId": "c9cbe331-f4cd-40e3-a964-aff51e058c16",
+        "chatSessionId": "sess_823f1cb6-ad12-4c9c-aa57-e297ab3d463c",
+        "timestamp": 1789094652252
+      }
+    ],
+    "7.5 Implement `QuickLinks.deleteLink()` with confirmation and rollback": [
+      {
+        "executionId": "c9cbe331-f4cd-40e3-a964-aff51e058c16",
+        "chatSessionId": "sess_823f1cb6-ad12-4c9c-aa57-e297ab3d463c",
+        "timestamp": 1789094479635
+      },
+      {
+        "executionId": "c9cbe331-f4cd-40e3-a964-aff51e058c16",
+        "chatSessionId": "sess_823f1cb6-ad12-4c9c-aa57-e297ab3d463c",
+        "timestamp": 1789094656200
+      }
+    ],
+    "7. Implement `QuickLinks` — core CRUD and persistence": [
+      {
+        "executionId": "c9cbe331-f4cd-40e3-a964-aff51e058c16",
+        "chatSessionId": "sess_823f1cb6-ad12-4c9c-aa57-e297ab3d463c",
+        "timestamp": 1789094656252
+      }
+    ],
+    "8.1 Implement `App.init()` to bootstrap all panels": [
+      {
+        "executionId": "209e4e48-a550-481f-99ea-71d0dc089755",
+        "chatSessionId": "sess_c72ae851-4dcd-4069-8818-329b5d5246a8",
+        "timestamp": 1789094719809
+      },
+      {
+        "executionId": "209e4e48-a550-481f-99ea-71d0dc089755",
+        "chatSessionId": "sess_c72ae851-4dcd-4069-8818-329b5d5246a8",
+        "timestamp": 1789094834200
+      }
+    ],
+    "8.2 Implement loading indicator for slow initial loads": [
+      {
+        "executionId": "209e4e48-a550-481f-99ea-71d0dc089755",
+        "chatSessionId": "sess_c72ae851-4dcd-4069-8818-329b5d5246a8",
+        "timestamp": 1789094723645
+      },
+      {
+        "executionId": "209e4e48-a550-481f-99ea-71d0dc089755",
+        "chatSessionId": "sess_c72ae851-4dcd-4069-8818-329b5d5246a8",
+        "timestamp": 1789094838617
+      }
+    ],
+    "8. Implement `App.init()` — bootstrap and wiring": [
+      {
+        "executionId": "209e4e48-a550-481f-99ea-71d0dc089755",
+        "chatSessionId": "sess_c72ae851-4dcd-4069-8818-329b5d5246a8",
+        "timestamp": 1789094838667
+      }
+    ],
+    "9.1 Implement base reset, typography, and panel shared styles": [
+      {
+        "executionId": "83dff0f0-532f-4bcb-9d0b-22878a483a07",
+        "chatSessionId": "sess_dd74ff17-4d31-4a92-ae5a-0f9d4d2ae09a",
+        "timestamp": 1789095116082
+      },
+      {
+        "executionId": "83dff0f0-532f-4bcb-9d0b-22878a483a07",
+        "chatSessionId": "sess_dd74ff17-4d31-4a92-ae5a-0f9d4d2ae09a",
+        "timestamp": 1789095760377
+      }
+    ],
+    "9.2 Implement dashboard grid layout and per-panel styles": [
+      {
+        "executionId": "fa1dbed5-ee31-4102-88ed-373e127578bf",
+        "chatSessionId": "sess_d5b47cee-0e9b-4c4b-abab-2aef81b06a70",
+        "timestamp": 1789095783148
+      },
+      {
+        "executionId": "fa1dbed5-ee31-4102-88ed-373e127578bf",
+        "chatSessionId": "sess_d5b47cee-0e9b-4c4b-abab-2aef81b06a70",
+        "timestamp": 1789095847778
+      }
+    ],
+    "9.3 Implement responsive breakpoints": [
+      {
+        "executionId": "81a54112-b650-4a5c-a34e-a0b642fb46c4",
+        "chatSessionId": "sess_701b4c98-87a9-4de0-81bb-dc9e5d89dcf7",
+        "timestamp": 1789095917381
+      },
+      {
+        "executionId": "81a54112-b650-4a5c-a34e-a0b642fb46c4",
+        "chatSessionId": "sess_701b4c98-87a9-4de0-81bb-dc9e5d89dcf7",
+        "timestamp": 1789096028645
+      }
+    ],
+    "10.1 Wire error message display and dismissal across all panels": [
+      {
+        "executionId": "06db7b2d-4cce-41b8-8920-db064ee1621a",
+        "chatSessionId": "sess_0ee65d9e-8c7a-4034-bc38-de074f21b462",
+        "timestamp": 1789096216668
+      },
+      {
+        "executionId": "06db7b2d-4cce-41b8-8920-db064ee1621a",
+        "chatSessionId": "sess_0ee65d9e-8c7a-4034-bc38-de074f21b462",
+        "timestamp": 1789096310742
+      }
+    ],
+    "10.2 Validate cross-panel wiring and end-to-end data flow": [
+      {
+        "executionId": "06db7b2d-4cce-41b8-8920-db064ee1621a",
+        "chatSessionId": "sess_0ee65d9e-8c7a-4034-bc38-de074f21b462",
+        "timestamp": 1789096314963
+      },
+      {
+        "executionId": "06db7b2d-4cce-41b8-8920-db064ee1621a",
+        "chatSessionId": "sess_0ee65d9e-8c7a-4034-bc38-de074f21b462",
+        "timestamp": 1789096369623
+      }
+    ],
+    "10. Final integration checkpoint and error-handling pass": [
+      {
+        "executionId": "06db7b2d-4cce-41b8-8920-db064ee1621a",
+        "chatSessionId": "sess_0ee65d9e-8c7a-4034-bc38-de074f21b462",
+        "timestamp": 1789096369779
+      }
+    ]
+  }
+}
