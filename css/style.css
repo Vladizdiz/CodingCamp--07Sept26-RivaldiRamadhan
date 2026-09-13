@@ -313,14 +313,17 @@ body {
 #side-image {
   grid-row: span 2; /* not used anymore but kept for fallback */
   border-radius: var(--radius);
-  overflow: hidden;
+  overflow: visible;   /* allow the image to spill outside the grid cell */
   min-height: 0;
+  position: relative;  /* required for z-index to take effect on a grid item */
+  z-index: 0;          /* sit behind panels (which default to z-index: auto / 1) */
 }
 
 #side-image img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  overflow: visible;
 }
 
 #greeting-panel,
@@ -332,6 +335,8 @@ body {
   box-shadow: var(--shadow);
   padding: 24px;
   min-width: 0; /* prevent grid blowout */
+  position: relative; /* establish stacking context so panels sit above side-image */
+  z-index: 1;
 }
 
 /* ─── 5. Greeting Panel ───────────────────────────────────────────────────── */
